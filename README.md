@@ -27,3 +27,5 @@ A partir da análise dos clusters, as principais oportunidades para a FashionLux
 - Fidelização e LTV: Implementação de programas de fidelidade segmentados para aumentar o tempo de vida do cliente com a marca.
 
 - Ajuste de Mix de Produtos: Alocação de estoque baseada nas categorias preferidas de cada grupo, evitando desperdícios.
+
+<img width="1442" height="809" alt="image" src="https://github.com/user-attachments/assets/3a3f6de7-e95a-4ac6-8b30-17990c431e02" />
